@@ -4,11 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         1 hr 27 mins    ██████████████▒░░░░░░░░░░   57.58 %
-TypeScript   52 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 %
-Markdown     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-CSV          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
