@@ -4,9 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         16 mins         ███████████████░░░░░░░░░░   60.41 %
-Ruby         10 mins         █████████▒░░░░░░░░░░░░░░░   37.90 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
