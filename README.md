@@ -4,7 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua     1 min           ██████████████████▓░░░░░░   74.63 %
+Bash    0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.53 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
