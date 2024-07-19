@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         1 min           ███████████████████▒░░░░░   77.01 %
-TypeScript   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
