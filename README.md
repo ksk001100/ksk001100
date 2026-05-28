@@ -12,8 +12,6 @@
 ### Keisuke Toyota / ksk001100
 
 ![Profile views](https://komarev.com/ghpvc/?username=ksk001100&style=for-the-badge&color=6d28d9)
-![Followers](https://img.shields.io/github/followers/ksk001100?style=for-the-badge&logo=github&label=followers)
-![Stars](https://img.shields.io/github/stars/ksk001100?style=for-the-badge&logo=github&label=stars)
 
 </div>
 
@@ -50,6 +48,7 @@ At work, I spend more time around Ruby, Rails, React, TypeScript.
 ## Links
 
 <p align="center">
+  <a href="https://github.com/ksk001100"><img src="https://img.shields.io/badge/GitHub-ksk001100-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://ksk.works"><img src="https://img.shields.io/badge/blog-ksk.works-22d3ee?style=for-the-badge" alt="Blog" /></a>
   <a href="https://lapras.com/public/ksk"><img src="https://img.shields.io/badge/LAPRAS-public_profile-0f172a?style=for-the-badge" alt="LAPRAS" /></a>
   <a href="https://qiita.com/ksk001100"><img src="https://img.shields.io/badge/Qiita-ksk001100-55c500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
